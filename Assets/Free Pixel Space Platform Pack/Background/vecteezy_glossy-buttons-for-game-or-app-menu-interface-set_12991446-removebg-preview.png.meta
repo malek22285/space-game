@@ -1,0 +1,1117 @@
+fileFormatVersion: 2
+guid: 4d28f1d5d178f1d44be359a0eacd8821
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 180
+        width: 118
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9e9491b5e91134b85d6566fec939be
+      internalID: 1393891617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 180
+        width: 89
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f002b6d47642db94d9b8499ee0f55731
+      internalID: 885001531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 179
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dccf89fb88d634b9687424528ab135
+      internalID: 745837794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 180
+        width: 118
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be9741b47079514d8c3d9003f1efe20
+      internalID: -66499442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 180
+        width: 90
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1800b7439e65e0b4ba09cb0cefb46f44
+      internalID: -831248563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 180
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6d0bf05658e3a4aacf173fcfebe88c
+      internalID: -265947291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 180
+        width: 118
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d13c238bc5b194ca100eb4b835987d
+      internalID: 790121718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 180
+        width: 90
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1980da6ac5cf26842bb3274ad9589e9e
+      internalID: -974514514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 180
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050d816b492085440808ce938897f89e
+      internalID: 1544491820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 131
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562ff780028677048843db38bfd6e6da
+      internalID: 1340898746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 131
+        width: 71
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55af36d2d533c0f4d9160b4db32f0b47
+      internalID: -108092362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 131
+        width: 70
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231392c2cce284d4c95d1ef31a4affc5
+      internalID: -505460661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 131
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab8e2a54aecbba44aaaa18e765ca9bd
+      internalID: 450134711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 131
+        width: 61
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56efacae600d092488de32cb945e6144
+      internalID: 695736862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 131
+        width: 72
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1742d579ba46547b0a52c5ffb15cb8
+      internalID: -1576316323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 131
+        width: 72
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976562d89b068174c88ea4908e139540
+      internalID: -194510200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 131
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c541e3663297cb4ba1811073fc45873
+      internalID: 1303530003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 131
+        width: 61
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffcae875f27a2641984637dc7415595
+      internalID: 973403549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 131
+        width: 72
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56379d60b6c84a49ac7769b95bcd0cd
+      internalID: -988753009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 131
+        width: 72
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f078eb4de742c4a9ed87a026c3b6e0
+      internalID: -1002553198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 131
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737e72ddf735a2943a724d0f4753ff8d
+      internalID: -1635029073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 82
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c7756e621893b4095288c45721ca5f
+      internalID: 777327146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 82
+        width: 70
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba265169fc67ba4459e8f5a1f14cbff3
+      internalID: -727182866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 82
+        width: 70
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52cf5ee0ab41d540a66e51bb4e3c6e0
+      internalID: 249807804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 82
+        width: 70
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d380e61315b80a4e80b962be465835e
+      internalID: -1370123370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 82
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bb6ea1264c0f747a7790c09ad8bb0d
+      internalID: 129827179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 82
+        width: 72
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf59fb5372689b44a7c93568cfbe56b
+      internalID: -672616902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 82
+        width: 72
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e549e513c92861444aa6e15ad4209f25
+      internalID: 1784053235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 82
+        width: 72
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f0890b725e67b4c8ef93367fc56e32
+      internalID: 889260384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 82
+        width: 61
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d700b393a900cc49a498d6724c334e6
+      internalID: -1878101415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 82
+        width: 71
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a3a44cc8a257044a28b49ade56a714
+      internalID: -350078269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 82
+        width: 72
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c74597ac28d60f44b64c3a8892c90ef
+      internalID: 622195367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 82
+        width: 73
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3aef68e9181114584e9b569a3f1ff8
+      internalID: -837312715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 34
+        width: 60
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45888747ecb319a45b1db00a8d8d9d81
+      internalID: 1461882131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 34
+        width: 70
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2459e48d67ac44ea6d30ddb8a9b7e4
+      internalID: 769874225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 34
+        width: 70
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851bc60c4f24da9479c851dc68d28013
+      internalID: -212090359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 34
+        width: 70
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67d25acd47098f46bbd4e45551db1a6
+      internalID: 2056785909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 33
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73800322003ff264597050537d080642
+      internalID: 1287379909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 33
+        width: 72
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f15d57665023cb429f150f5ed19fc08
+      internalID: 192561164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 33
+        width: 72
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1630c38f5b8af8b4c935d0b195aa82ab
+      internalID: 1513266509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 33
+        width: 72
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf93294570a0b9a4ebcf3bc41e0bcec3
+      internalID: -155201329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 33
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a19d737ed7a9814db088414402dfa54
+      internalID: -755296741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 33
+        width: 71
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e13b1a4e6ce76409d9b61b3c6bc0e8
+      internalID: 2002450688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 33
+        width: 72
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce5c0f53472a704ca1a2680133cca3e
+      internalID: -164872348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 33
+        width: 72
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bfb035d88ed85419a42b9fda7b1a1d
+      internalID: -1666477683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_0: 1393891617
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_1: 885001531
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_10: -108092362
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_11: -505460661
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_12: 450134711
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_13: 695736862
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_14: -1576316323
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_15: -194510200
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_16: 1303530003
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_17: 973403549
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_18: -988753009
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_19: -1002553198
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_2: 745837794
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_20: -1635029073
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_21: 777327146
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_22: -727182866
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_23: 249807804
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_24: -1370123370
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_25: 129827179
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_26: -672616902
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_27: 1784053235
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_28: 889260384
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_29: -1878101415
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_3: -66499442
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_30: -350078269
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_31: 622195367
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_32: -837312715
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_33: 1461882131
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_34: 769874225
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_35: -212090359
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_36: 2056785909
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_37: 1287379909
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_38: 192561164
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_39: 1513266509
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_4: -831248563
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_40: -155201329
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_41: -755296741
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_42: 2002450688
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_43: -164872348
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_44: -1666477683
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_5: -265947291
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_6: 790121718
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_7: -974514514
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_8: 1544491820
+      vecteezy_glossy-buttons-for-game-or-app-menu-interface-set_12991446-removebg-preview_9: 1340898746
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
